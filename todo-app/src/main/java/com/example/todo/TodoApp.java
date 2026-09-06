@@ -49,6 +49,7 @@ public class TodoApp {
     private void printWelcome() {
         System.out.println("================================");
         System.out.println("     待办事项管理器 v1.0");
+        System.out.println("测试测试测试");
         System.out.println("================================\n");
     }
 
