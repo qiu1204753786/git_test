@@ -60,7 +60,7 @@ public class TodoApp {
         System.out.println("  3. 查看未完成");
         System.out.println("  4. 标记完成");
         System.out.println("  5. 删除待办");
-        System.out.println("  6. 测试");
+        System.out.println("  6. 测试1");
         System.out.println("  0. 退出");
         System.out.print("> ");
     }
